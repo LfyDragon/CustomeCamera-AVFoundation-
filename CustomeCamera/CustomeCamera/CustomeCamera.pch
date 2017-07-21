@@ -1,0 +1,20 @@
+//
+//  CustomeCamera.pch
+//  CustomeCamera
+//
+//  Created by ios2chen on 2017/7/20.
+//  Copyright © 2017年 ios2chen. All rights reserved.
+//
+
+#ifndef CustomeCamera_pch
+#define CustomeCamera_pch
+
+
+
+#endif /* CustomeCamera_pch */
+
+#import <AVFoundation/AVFoundation.h>
+#import "CustomeAlertView.h"
+
+#define UIScreen_Height [UIScreen mainScreen].bounds.size.height
+#define UIScreen_Width [UIScreen mainScreen].bounds.size.Width

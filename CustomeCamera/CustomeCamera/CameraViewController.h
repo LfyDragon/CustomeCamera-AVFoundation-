@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CameraViewController.h
 //  CustomeCamera
 //
 //  Created by ios2chen on 2017/7/20.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface CameraViewController : UIViewController
 
 @end
-
